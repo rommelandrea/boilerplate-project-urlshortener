@@ -17,7 +17,7 @@
 		"express": "^5.0.0-alpha.2",
 		"express-ip": "^1.0.3",
 		"mongodb": "^2.2.5",
-		"mongoose": "^5.5.11",
+		"mongoose": "^5.7.5",
 		"url": "^0.11.0",
 		"valid-url": "^1.0.9",
 		"validator": "^11.0.0"
